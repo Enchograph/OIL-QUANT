@@ -1,0 +1,12 @@
+# WTI因子数据自动更新系统依赖
+pandas>=1.5.0
+numpy>=1.21.0
+requests>=2.28.0
+yfinance>=0.2.0
+schedule>=1.2.0
+openpyxl>=3.0.0
+akshare>=1.11.0  # 中国数据、BDTI、黄金价格
+
+# 可选依赖
+# lxml>=4.9.0      # HTML解析
+# beautifulsoup4>=4.11.0  # 网页抓取

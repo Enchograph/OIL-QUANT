@@ -1,0 +1,16 @@
+export const defaultFactorColumns = [
+    'Date',
+    'Price',
+    'WTI_Open',
+    'WTI_High',
+    'WTI_Low',
+    'WTI_Close',
+    'WTI_Return_1d',
+    'WTI_Volatility_20d',
+    'VIX_Price',
+    'DXY_Price',
+    'OPEC_supply',
+    'US_stock_strategy',
+    'conflict_intensity_mean',
+    'GPR',
+];

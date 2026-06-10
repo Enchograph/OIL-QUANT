@@ -1,4 +1,4 @@
-![icon](D:\Github\enchograph\citi-oil-platform\git\assets\icon.png)
+![icon](assets/icon.png)
 
 # OIL-QUANT
 

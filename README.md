@@ -1,8 +1,6 @@
-<p align="center"><img src="assets/oil-quant-wordmark-light.svg" alt="icon"></p>
+<p align="center"><img src="assets/oil-quant-wordmark-light.svg" alt="icon" width="50%"></p>
 
-# OIL-QUANT
-
-基于多维时序因子分解与机器学习的全球基准油价预测框架
+# 基于多维时序因子分解与机器学习的全球基准油价预测框架
 
 ---
 
